@@ -39,9 +39,15 @@ source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate     # Windows
 ```
 
-### 3. Instal dependensi
+> 💡Jika Anda menginstal Python dengan versi selain 3.10 maka direkomendasikan untuk memakai [Conda](https://www.anaconda.com/docs/main) untuk membuat virtual environment dengan versi spesifik Python 3.10 karena TensorFlow belum mendukung Python terbaru saat repositori ini dibuat.
+> ```bash
+> conda create -n iris-api-env python=3.10
+> conda activate iris-api-env
+>```
+>
 
-> ⚠️ Gunakan Python 3.10 atau 3.11. TensorFlow belum mendukung Python terbaru saat repositori ini dibuat.
+
+### 3. Instal dependensi
 
 ```bash
 pip install -r requirements.txt
