@@ -4,9 +4,9 @@ API ini memanfaatkan model machine learning (TensorFlow) untuk melakukan klasifi
 
 Project ini dirancang sebagai demonstrasi integrasi antara model machine learning dan REST API.
 
-> Branch ini memuat source code Iris Classifier API tanpa integrasi Firebase untuk menyimpan hasil klasifikasi
+> ℹ️ Branch ini memuat source code Iris Classifier API tanpa integrasi Firebase untuk menyimpan hasil klasifikasi
 
-> Jika Anda ingin mempelajari fitur tambahan untuk integrasi ke Firebase, silakan menuju branch [main](https://github.com/yusufsugiono/iris-classifier-api/tree/main)
+> ℹ️ Jika Anda ingin mempelajari fitur tambahan untuk integrasi ke Firebase, silakan menuju branch [main](https://github.com/yusufsugiono/iris-classifier-api/tree/main)
 
 ## 🚀 Fitur
 
